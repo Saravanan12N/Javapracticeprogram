@@ -7,7 +7,6 @@ public class Jagged2DArray {
         System.out.println("Enter no of rows");
         int rows  = sc.nextInt();
         int[][] arr = new int[rows][];
-
         for(int i=0;i<rows;i++){
             System.out.print("Enter the columns");
             int cols = sc.nextInt();
@@ -16,16 +15,12 @@ public class Jagged2DArray {
             for(int j=0;j<cols;j++){
                 arr[i][j] = sc.nextInt();
             }
-
         }
-
         for(int[] result : arr){
-
-                System.out.println(Arrays.toString(result));}
+            System.out.println(Arrays.toString(result));
+        }
     }
 }
-
-
 //op
 /*
 Enter no of rows
