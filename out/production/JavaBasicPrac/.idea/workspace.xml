@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="&quot;Inherit Example&quot;">
-      <change afterPath="$PROJECT_DIR$/RuntimePoly.java" afterDir="false" />
+    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="commit op files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColumTraverse2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracProgram/ColumTraverse2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheritProg.java" beforeDir="false" afterPath="$PROJECT_DIR$/InheritProg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RuntimePoly.java" beforeDir="false" afterPath="$PROJECT_DIR$/RuntimePoly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/AdvCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/AdvCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/InheritProg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/InheritProg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PairSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PairSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/RuntimePoly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/RuntimePoly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/TwoPairSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/TwoPairSum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +37,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2Tryp3bfM0wYsn8v93LhndxhZgH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,23 +48,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.RuntimePoly">
-    <configuration name="InheritProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InheritProg" />
+}</component>
+  <component name="RunManager" selected="Application.ColumTraverse2D">
+    <configuration name="ColumTraverse2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.ColumTraverse2D" />
       <module name="JavaBasicPrac" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimePoly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RuntimePoly" />
+    <configuration name="Enumeration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enumeration" />
+      <module name="JavaBasicPrac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceBasic" />
+      <module name="JavaBasicPrac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jagged2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jagged2DArray" />
+      <module name="JavaBasicPrac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDArray" />
       <module name="JavaBasicPrac" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,8 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RuntimePoly" />
-        <item itemvalue="Application.InheritProg" />
+        <item itemvalue="Application.ColumTraverse2D" />
+        <item itemvalue="Application.Enumeration" />
+        <item itemvalue="Application.InterfaceBasic" />
+        <item itemvalue="Application.Jagged2DArray" />
+        <item itemvalue="Application.TwoDArray" />
       </list>
     </recent_temporary>
   </component>
@@ -86,7 +125,84 @@
       <option name="project" value="LOCAL" />
       <updated>1691816132753</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;Dynamic Dispatch / RuntimePolymorphism Example&quot;">
+      <created>1691824947480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691824947480</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Call by value &amp; call by reference">
+      <created>1691854602475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691854602475</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Two Pair Sum with optimization">
+      <created>1691865865673</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691865865673</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Two Dimensional Array">
+      <created>1691866743657</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691866743657</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;Jagged 2D array with User input&quot;">
+      <created>1691941440497</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691941440497</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;Jagged 2D array with User input&quot;">
+      <created>1691941511308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691941511308</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Column Traverse in 2D array">
+      <created>1691943557081</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691943557081</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Interface Basic">
+      <created>1691985146193</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691985146193</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Enumeration Example">
+      <created>1691985323333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691985323333</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Enumeration update with values">
+      <created>1691985617814</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691985617814</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit op files">
+      <created>1691985640847</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691985640847</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +219,32 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;Inherit Example&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Inherit Example&quot;" />
+    <MESSAGE value="&quot;Dynamic Dispatch / RuntimePolymorphism Example&quot;" />
+    <MESSAGE value="Call by value &amp; call by reference" />
+    <MESSAGE value="Two Pair Sum with optimization" />
+    <MESSAGE value="Two Dimensional Array" />
+    <MESSAGE value="&quot;Jagged 2D array with User input&quot;" />
+    <MESSAGE value="Column Traverse in 2D array" />
+    <MESSAGE value="Interface Basic" />
+    <MESSAGE value="Enumeration Example" />
+    <MESSAGE value="Enumeration update with values" />
+    <MESSAGE value="commit op files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit op files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TwoPairSum.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TwoPairSum.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
