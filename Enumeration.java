@@ -15,6 +15,22 @@ public class Enumeration {
         System.out.println(s3);
         System.out.println(s4);
 
+        //Array Loop
+        Status[] ss = Status.values();
+        for(Status s : ss){
+            System.out.println("Array result : "+ s);
+        }
+
 
     }
 }
+/*
+Success
+Failed
+Running
+Waiting
+Array result : Running
+Array result : Failed
+Array result : Success
+Array result : Waiting
+ */
