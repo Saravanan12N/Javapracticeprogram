@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="Lambda Experisson Example">
-      <change afterPath="$PROJECT_DIR$/PracProgram/ListExam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracProgram/LambdaExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracProgram/LambdaExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracProgram/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracProgram/TwoDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/LambdaExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/LambdaExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/TwoDArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/TwoDArray.class" afterDir="false" />
-    </list>
+    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="List Example added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692010031954</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="List Example added">
+      <created>1692293502391</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692293502391</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,7 +250,8 @@
     <MESSAGE value="commit op files" />
     <MESSAGE value="Refractered and created new package" />
     <MESSAGE value="Lambda Experisson Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Experisson Example" />
+    <MESSAGE value="List Example added" />
+    <option name="LAST_COMMIT_MESSAGE" value="List Example added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
