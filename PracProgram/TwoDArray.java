@@ -10,9 +10,7 @@ public class TwoDArray {
 
         //print address of array object
         System.out.println(array[0]);
-
         //Loop
-
         for(int i=0;i<array.length;i++){
             for(int j=0;j<array[i].length;j++){
                 System.out.print(array[i][j]+ " ");

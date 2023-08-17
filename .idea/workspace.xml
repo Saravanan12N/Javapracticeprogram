@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="commit op files">
+    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="Lambda Experisson Example">
+      <change afterPath="$PROJECT_DIR$/PracProgram/ListExam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ColumTraverse2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracProgram/ColumTraverse2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InheritProg.java" beforeDir="false" afterPath="$PROJECT_DIR$/InheritProg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuntimePoly.java" beforeDir="false" afterPath="$PROJECT_DIR$/RuntimePoly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracProgram/LambdaExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracProgram/LambdaExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracProgram/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracProgram/TwoDArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/AdvCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/AdvCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/InheritProg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/InheritProg.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PairSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PairSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/RuntimePoly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/RuntimePoly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/TwoPairSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/TwoPairSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/LambdaExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/LambdaExp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/TwoDArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/TwoDArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoDArray">
+  <component name="RunManager" selected="Application.ListExam">
     <configuration name="ColumTraverse2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracProgram.ColumTraverse2D" />
       <module name="JavaBasicPrac" />
@@ -71,16 +65,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.InterfaceBasic" />
+    <configuration name="LambdaExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.LambdaExp" />
       <module name="JavaBasicPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jagged2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.Jagged2DArray" />
+    <configuration name="ListExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.ListExam" />
       <module name="JavaBasicPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListExam" />
+        <item itemvalue="Application.LambdaExp" />
         <item itemvalue="Application.TwoDArray" />
         <item itemvalue="Application.ColumTraverse2D" />
         <item itemvalue="Application.Enumeration" />
-        <item itemvalue="Application.InterfaceBasic" />
-        <item itemvalue="Application.Jagged2DArray" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691985640847</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Refractered and created new package">
+      <created>1691988978554</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1691988978554</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Lambda Experisson Example">
+      <created>1692010031954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1692010031954</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,18 +249,20 @@
     <MESSAGE value="Enumeration Example" />
     <MESSAGE value="Enumeration update with values" />
     <MESSAGE value="commit op files" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit op files" />
+    <MESSAGE value="Refractered and created new package" />
+    <MESSAGE value="Lambda Experisson Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Experisson Example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TwoPairSum.java</url>
+          <url>file://$PROJECT_DIR$/PracProgram/TwoPairSum.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TwoPairSum.java</url>
+          <url>file://$PROJECT_DIR$/PracProgram/TwoPairSum.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
