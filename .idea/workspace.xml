@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="List Example added" />
+    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="List Example added">
+      <change afterPath="$PROJECT_DIR$/PracProgram/StringPrac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/ListExam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/ListExam.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,16 +46,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ListExam">
+  <component name="RunManager" selected="Application.StringPrac">
     <configuration name="ColumTraverse2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracProgram.ColumTraverse2D" />
-      <module name="JavaBasicPrac" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Enumeration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.Enumeration" />
       <module name="JavaBasicPrac" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringPrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.StringPrac" />
+      <module name="JavaBasicPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracProgram.TwoDArray" />
       <module name="JavaBasicPrac" />
@@ -92,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPrac" />
         <item itemvalue="Application.ListExam" />
         <item itemvalue="Application.LambdaExp" />
         <item itemvalue="Application.TwoDArray" />
         <item itemvalue="Application.ColumTraverse2D" />
-        <item itemvalue="Application.Enumeration" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692293502391</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="List Example added">
+      <created>1692293653003</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1692293653003</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +282,16 @@
           <url>file://$PROJECT_DIR$/PracProgram/TwoPairSum.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PracProgram/StringPrac.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PracProgram/StringPrac.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
