@@ -1,6 +1,4 @@
 package PracProgram;
-
-
 import java.util.Scanner;
 
 class StringNormal{
@@ -12,6 +10,7 @@ class StringNormal{
         }
     }
 }
+
 class StringBuildervv{
     public void stringbbprint(int n){
         StringBuilder sb = new StringBuilder();
@@ -22,6 +21,7 @@ class StringBuildervv{
     }
 
 }
+
 public class StringPerformance {
     public static void main(String[] args) {
         StringNormal sn = new StringNormal();

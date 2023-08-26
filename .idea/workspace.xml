@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="String Performance Comparison">
-      <change afterPath="$PROJECT_DIR$/PracProgram/StringPerformance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/StringBuilderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracProgram/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracProgram/StringPerformance.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracProgram/StringPerformance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,17 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/JavaBasicPrac",
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
-}</component>
-  <component name="RunManager" selected="Application.StringPerformance">
-    <configuration name="LambdaExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.LambdaExp" />
+}]]></component>
+  <component name="RunManager" selected="Application.PrimeNumber">
+    <configuration name="ListExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.ListExam" />
       <module name="JavaBasicPrac" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.ListExam" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.PrimeNumber" />
       <module name="JavaBasicPrac" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.StringPerformance" />
         <item itemvalue="Application.StringBuilderDemo" />
         <item itemvalue="Application.StringPrac" />
         <item itemvalue="Application.ListExam" />
-        <item itemvalue="Application.LambdaExp" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +265,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692338334410</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="String Performance Comparison">
+      <created>1692339924662</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692339924662</updated>
+    </task>
+    <task id="LOCAL-00021" summary="String Performance Comparison">
+      <created>1692339949238</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1692339949238</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
