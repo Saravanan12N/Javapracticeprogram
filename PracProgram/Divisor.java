@@ -2,6 +2,7 @@ package PracProgram;
 
 public class Divisor {
     public static void main(String[] args) {
+
         int num = 36;
         for(int i=1;i*i<=num;i++){
             if(num%i==0){
