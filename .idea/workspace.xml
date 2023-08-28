@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="Log Example Program" />
+    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="Log Example Program">
+      <change afterPath="$PROJECT_DIR$/PracProgram/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,9 +52,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LogDemo">
+  <component name="RunManager" selected="Application.FibonacciSeries">
     <configuration name="Divisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracProgram.Divisor" />
+      <module name="JavaBasicPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.FibonacciSeries" />
       <module name="JavaBasicPrac" />
       <extension name="coverage">
         <pattern>
@@ -89,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.StringBuilderDemo" />
-      <module name="JavaBasicPrac" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracProgram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracProgram.StringPerformance" />
       <module name="JavaBasicPrac" />
@@ -117,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.LogDemo" />
         <item itemvalue="Application.Divisor" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.StringPerformance" />
-        <item itemvalue="Application.StringBuilderDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693240300142</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Log Example Program">
+      <created>1693243124160</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1693243124160</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
