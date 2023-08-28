@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="String Performance Comparison">
-      <change afterPath="$PROJECT_DIR$/PracProgram/PrimeNumber.java" afterDir="false" />
+    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="Prime Number with optimized">
+      <change afterPath="$PROJECT_DIR$/PracProgram/Divisor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracProgram/StringPerformance.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracProgram/StringPerformance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/StringBuildervv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/StringBuildervv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/StringNormal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/StringNormal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/JavaBasicPrac",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaBasicPrac&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PrimeNumber">
-    <configuration name="ListExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.ListExam" />
+}</component>
+  <component name="RunManager" selected="Application.Divisor">
+    <configuration name="Divisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.Divisor" />
       <module name="JavaBasicPrac" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Divisor" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.StringPerformance" />
         <item itemvalue="Application.StringBuilderDemo" />
         <item itemvalue="Application.StringPrac" />
-        <item itemvalue="Application.ListExam" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692339949238</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Prime Number with optimized">
+      <created>1693066888599</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1693066888599</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +321,8 @@
     <MESSAGE value="String Example added" />
     <MESSAGE value="String Builder added" />
     <MESSAGE value="String Performance Comparison" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Performance Comparison" />
+    <MESSAGE value="Prime Number with optimized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prime Number with optimized" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="Lambda Experisson Example">
+    <list default="true" id="60d27569-04da-4bf3-bb6a-f32a323513a4" name="Changes" comment="Prime Number with optimized">
+      <change afterPath="$PROJECT_DIR$/PracProgram/Divisor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracProgram/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracProgram/TwoDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/TwoDArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/TwoDArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/StringBuildervv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/StringBuildervv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/StringNormal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasicPrac/PracProgram/StringNormal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,26 +45,13 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JavaBasicPrac&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ListExam">
-    <configuration name="ColumTraverse2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.ColumTraverse2D" />
-      <module name="JavaBasicPrac" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Enumeration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.Enumeration" />
-      <module name="JavaBasicPrac" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.LambdaExp" />
+  <component name="RunManager" selected="Application.Divisor">
+    <configuration name="Divisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.Divisor" />
       <module name="JavaBasicPrac" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.ListExam" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.PrimeNumber" />
       <module name="JavaBasicPrac" />
       <extension name="coverage">
         <pattern>
@@ -87,20 +76,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracProgram.TwoDArray" />
+    <configuration name="StringBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.StringBuilderDemo" />
       <module name="JavaBasicPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.StringPerformance" />
+      <module name="JavaBasicPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracProgram.StringPrac" />
+      <module name="JavaBasicPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListExam" />
-        <item itemvalue="Application.LambdaExp" />
-        <item itemvalue="Application.TwoDArray" />
-        <item itemvalue="Application.ColumTraverse2D" />
-        <item itemvalue="Application.Enumeration" />
+        <item itemvalue="Application.Divisor" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.StringPerformance" />
+        <item itemvalue="Application.StringBuilderDemo" />
+        <item itemvalue="Application.StringPrac" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +239,56 @@
       <option name="project" value="LOCAL" />
       <updated>1692010031954</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="List Example added">
+      <created>1692293502391</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692293502391</updated>
+    </task>
+    <task id="LOCAL-00017" summary="List Example added">
+      <created>1692293653003</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1692293653003</updated>
+    </task>
+    <task id="LOCAL-00018" summary="String Example added">
+      <created>1692332841995</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1692332841995</updated>
+    </task>
+    <task id="LOCAL-00019" summary="String Builder added">
+      <created>1692338334410</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1692338334410</updated>
+    </task>
+    <task id="LOCAL-00020" summary="String Performance Comparison">
+      <created>1692339924662</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692339924662</updated>
+    </task>
+    <task id="LOCAL-00021" summary="String Performance Comparison">
+      <created>1692339949238</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1692339949238</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Prime Number with optimized">
+      <created>1693066888599</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1693066888599</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,7 +317,12 @@
     <MESSAGE value="commit op files" />
     <MESSAGE value="Refractered and created new package" />
     <MESSAGE value="Lambda Experisson Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Experisson Example" />
+    <MESSAGE value="List Example added" />
+    <MESSAGE value="String Example added" />
+    <MESSAGE value="String Builder added" />
+    <MESSAGE value="String Performance Comparison" />
+    <MESSAGE value="Prime Number with optimized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prime Number with optimized" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -261,6 +336,16 @@
           <url>file://$PROJECT_DIR$/PracProgram/TwoPairSum.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PracProgram/StringPrac.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PracProgram/StringPrac.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
